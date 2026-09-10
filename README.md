@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jainsanyaa/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jainsanyaa/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/jainsanyaa/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jainsanyaa/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jainsanyaa/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
