@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/jainsanyaa/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jainsanyaa/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jainsanyaa/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
