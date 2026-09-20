@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jainsanyaa/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0509-fibonacci-number](https://github.com/jainsanyaa/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jainsanyaa/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jainsanyaa/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -109,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/jainsanyaa/LeetCode/tree/main/0078-subsets/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jainsanyaa/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
