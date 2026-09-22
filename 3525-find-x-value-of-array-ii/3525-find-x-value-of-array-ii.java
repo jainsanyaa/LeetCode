@@ -11,23 +11,9 @@ class Solution {
     int k;
     Node[] tree;
 
-    void build(int node, int left, int right, int[] nums) {
-        if (left == right) {
-            tree[node] = new Node(k);
-            int rem = nums[left] % k;
-            tree[node].product = rem;
-            tree[node].cnt[rem] = 1;
-            return;
-        }
-
-        int mid = (left + right) / 2;
-        build(node * 2, left, mid, nums);
-        build(node * 2 + 1, mid + 1, right, nums);
-        tree[node] = merge(tree[node * 2], tree[node * 2 + 1]);
-    }
-
     Node merge(Node a, Node b) {
         Node res = new Node(k);
+
         res.product = (a.product * b.product) % k;
 
         for (int r = 0; r < k; r++) {
@@ -42,12 +28,33 @@ class Solution {
         return res;
     }
 
+    void build(int node, int left, int right, int[] nums) {
+        if (left == right) {
+            tree[node] = new Node(k);
+
+            int rem = nums[left] % k;
+            tree[node].product = rem;
+            tree[node].cnt[rem] = 1;
+
+            return;
+        }
+
+        int mid = (left + right) / 2;
+
+        build(node * 2, left, mid, nums);
+        build(node * 2 + 1, mid + 1, right, nums);
+
+        tree[node] = merge(tree[node * 2], tree[node * 2 + 1]);
+    }
+
     void update(int node, int left, int right, int index, int value) {
         if (left == right) {
             tree[node] = new Node(k);
+
             int rem = value % k;
             tree[node].product = rem;
             tree[node].cnt[rem] = 1;
+
             return;
         }
 
@@ -84,6 +91,7 @@ class Solution {
 
     public int[] resultArray(int[] nums, int k, int[][] queries) {
         this.k = k;
+
         int n = nums.length;
         tree = new Node[4 * n];
 
@@ -98,11 +106,14 @@ class Solution {
             int x = queries[i][3];
 
             nums[index] = value;
+
             update(1, 0, n - 1, index, value);
 
             Node ans = query(1, 0, n - 1, start, n - 1);
+
             result[i] = ans.cnt[x];
         }
+
         return result;
     }
 }
