@@ -4,7 +4,6 @@ class Solution {
         backtrack(1, n, k, new ArrayList<>(), ans);
         return ans;
     }
-    
     public void backtrack(int start, int n, int k,
                            List<Integer> temp,
                            List<List<Integer>> ans) {
