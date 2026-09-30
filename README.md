@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/jainsanyaa/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/jainsanyaa/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0567-permutation-in-string](https://github.com/jainsanyaa/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jainsanyaa/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/jainsanyaa/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jainsanyaa/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/jainsanyaa/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jainsanyaa/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/jainsanyaa/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0567-permutation-in-string](https://github.com/jainsanyaa/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/jainsanyaa/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/jainsanyaa/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jainsanyaa/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/jainsanyaa/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/jainsanyaa/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/jainsanyaa/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0567-permutation-in-string](https://github.com/jainsanyaa/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jainsanyaa/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jainsanyaa/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/jainsanyaa/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
