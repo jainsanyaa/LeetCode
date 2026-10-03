@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/jainsanyaa/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0567-permutation-in-string](https://github.com/jainsanyaa/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jainsanyaa/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/jainsanyaa/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0179-largest-number](https://github.com/jainsanyaa/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
 ## Backtracking
@@ -173,4 +175,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/jainsanyaa/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/jainsanyaa/LeetCode/tree/main/0148-sort-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/jainsanyaa/LeetCode/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/jainsanyaa/LeetCode/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
