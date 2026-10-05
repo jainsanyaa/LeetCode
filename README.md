@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jainsanyaa/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0509-fibonacci-number](https://github.com/jainsanyaa/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0593-valid-square](https://github.com/jainsanyaa/LeetCode/tree/main/0593-valid-square/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jainsanyaa/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jainsanyaa/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/jainsanyaa/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0593-valid-square](https://github.com/jainsanyaa/LeetCode/tree/main/0593-valid-square/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jainsanyaa/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
