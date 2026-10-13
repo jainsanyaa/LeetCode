@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/jainsanyaa/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/jainsanyaa/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jainsanyaa/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jainsanyaa/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jainsanyaa/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jainsanyaa/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/jainsanyaa/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/jainsanyaa/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/jainsanyaa/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jainsanyaa/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jainsanyaa/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jainsanyaa/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
