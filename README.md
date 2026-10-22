@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jainsanyaa/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/jainsanyaa/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jainsanyaa/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jainsanyaa/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/jainsanyaa/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0409-longest-palindrome](https://github.com/jainsanyaa/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jainsanyaa/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/jainsanyaa/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jainsanyaa/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jainsanyaa/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
