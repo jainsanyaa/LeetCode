@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jainsanyaa/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/jainsanyaa/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jainsanyaa/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/jainsanyaa/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jainsanyaa/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/jainsanyaa/LeetCode/tree/main/0078-subsets/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/jainsanyaa/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
