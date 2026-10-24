@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/jainsanyaa/LeetCode/tree/main/0593-valid-square/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jainsanyaa/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jainsanyaa/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2409-count-days-spent-together](https://github.com/jainsanyaa/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/jainsanyaa/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jainsanyaa/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Dynamic Programming
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jainsanyaa/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jainsanyaa/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jainsanyaa/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2409-count-days-spent-together](https://github.com/jainsanyaa/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/jainsanyaa/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
