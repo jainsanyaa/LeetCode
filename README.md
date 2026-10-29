@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0064-minimum-path-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/jainsanyaa/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/jainsanyaa/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainsanyaa/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jainsanyaa/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/jainsanyaa/LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/jainsanyaa/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/jainsanyaa/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/jainsanyaa/LeetCode/tree/main/0079-word-search/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/jainsanyaa/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0071-simplify-path](https://github.com/jainsanyaa/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/jainsanyaa/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/jainsanyaa/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0179-largest-number](https://github.com/jainsanyaa/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0383-ransom-note](https://github.com/jainsanyaa/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/jainsanyaa/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/jainsanyaa/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jainsanyaa/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -300,4 +304,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/jainsanyaa/LeetCode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
