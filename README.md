@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/jainsanyaa/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/jainsanyaa/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/jainsanyaa/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/jainsanyaa/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/jainsanyaa/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0076-minimum-window-substring](https://github.com/jainsanyaa/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/jainsanyaa/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/jainsanyaa/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/jainsanyaa/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/jainsanyaa/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/jainsanyaa/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainsanyaa/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0148-sort-list](https://github.com/jainsanyaa/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/jainsanyaa/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/jainsanyaa/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jainsanyaa/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/jainsanyaa/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/jainsanyaa/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/jainsanyaa/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jainsanyaa/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jainsanyaa/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -156,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/jainsanyaa/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0179-largest-number](https://github.com/jainsanyaa/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jainsanyaa/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/jainsanyaa/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jainsanyaa/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Backtracking
