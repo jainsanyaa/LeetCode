@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jainsanyaa/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/jainsanyaa/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0089-gray-code](https://github.com/jainsanyaa/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0509-fibonacci-number](https://github.com/jainsanyaa/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0593-valid-square](https://github.com/jainsanyaa/LeetCode/tree/main/0593-valid-square/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jainsanyaa/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/jainsanyaa/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/jainsanyaa/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/jainsanyaa/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/jainsanyaa/LeetCode/tree/main/0089-gray-code/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/jainsanyaa/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/jainsanyaa/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jainsanyaa/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
