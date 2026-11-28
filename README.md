@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/jainsanyaa/LeetCode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/jainsanyaa/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/jainsanyaa/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/jainsanyaa/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jainsanyaa/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/jainsanyaa/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jainsanyaa/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/jainsanyaa/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/jainsanyaa/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/jainsanyaa/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/jainsanyaa/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jainsanyaa/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jainsanyaa/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Recursion
